@@ -1,0 +1,5 @@
+node_modules
+*.json
+*.lock
+frontEnd/.eslintcache
+backEnd/src/server.ts
